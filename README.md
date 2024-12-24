@@ -60,8 +60,6 @@ Utilize o toggle no cabeçalho para alternar entre os modos de tema claro e escu
 
 # Estrutura do Projeto
 
-arduino
-Copiar código
 consulta-cep/
 ├── public/
 │   └── index.html
@@ -74,11 +72,11 @@ consulta-cep/
 │   ├── App.vue
 │   ├── main.js
 │   └── assets/
-│       └── ... 
+│       └── ...
 ├── tailwind.config.js
 ├── package.json
 ├── README.md
-└── ... 
+└── ...
 
 # Explicação do Código
 
