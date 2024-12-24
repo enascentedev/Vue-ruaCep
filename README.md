@@ -60,6 +60,7 @@ Utilize o toggle no cabeçalho para alternar entre os modos de tema claro e escu
 
 # Estrutura do Projeto
 
+```
 consulta-cep/
 ├── public/
 │   └── index.html
@@ -77,6 +78,7 @@ consulta-cep/
 ├── package.json
 ├── README.md
 └── ...
+```
 
 # Explicação do Código
 
